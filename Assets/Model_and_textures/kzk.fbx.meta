@@ -1,0 +1,2844 @@
+fileFormatVersion: 2
+guid: 85f3c802643d3e747ac282c15cd34d62
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00000-texture
+    second: {fileID: 2800000, guid: eaab20c4520704a4ebfe06faad3413cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00001-texture
+    second: {fileID: 2800000, guid: 8af23a22dabacfd4e8a30b752d7fe58b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00002-texture
+    second: {fileID: 2800000, guid: eaed2b076f40d7d4f8f335e10894cd30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00003-texture
+    second: {fileID: 2800000, guid: d773ef8d64ce5e04d8c77ce64df964db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00004-texture
+    second: {fileID: 2800000, guid: 16c4230360784064f8a1db47a31d8dbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00005-texture
+    second: {fileID: 2800000, guid: 64cbdae07b4a5c342977b96f0a7ef1f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00006-texture
+    second: {fileID: 2800000, guid: 5e1e7c08c87f5c94d94be528bf1f6fdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00007-texture
+    second: {fileID: 2800000, guid: fb6bab75347aa97478e7fca1446243e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00008-texture
+    second: {fileID: 2800000, guid: 6fa02af1073275042b899868d8d0fbd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00009-texture
+    second: {fileID: 2800000, guid: e9be851afe898114b92e3f9c5f60dd86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00010-texture
+    second: {fileID: 2800000, guid: 9ab3b0656855cba40b83c1eb54b9c3a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00011-texture
+    second: {fileID: 2800000, guid: b4fddb15a51718c4ebaabfa5be59ec95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00012-texture
+    second: {fileID: 2800000, guid: 54c6043cf082f6444801ad9204c166c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00013-texture
+    second: {fileID: 2800000, guid: fe6c2f78ffc343c419d70f01282a332e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00014-texture
+    second: {fileID: 2800000, guid: 2b08c99e1d2698d4ca4df7eaf8eec782, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00015-texture
+    second: {fileID: 2800000, guid: 55eadaaf28797a843862139fb5501982, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00016-texture
+    second: {fileID: 2800000, guid: 0dd4389dda889eb40abf8b2193dccccd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00017-texture
+    second: {fileID: 2800000, guid: f6501c16c6fcc6b4faf2b7a924041834, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00018-texture
+    second: {fileID: 2800000, guid: 8a93cc3e39196e74aacddd0474f86a57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00019-texture
+    second: {fileID: 2800000, guid: 7bb1fd9f2e0dbd947b887a55f084cb45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00020-texture
+    second: {fileID: 2800000, guid: 50cfceac29a62fb4ea7620190f83c7b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00021-texture
+    second: {fileID: 2800000, guid: ae8b880c54686d2419fdbadbe3503f07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00022-texture
+    second: {fileID: 2800000, guid: a113b61e5aa78fa468a0c272d9c51431, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00023-texture
+    second: {fileID: 2800000, guid: 934f5530dbf06834ab82ac958139de1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00024-texture
+    second: {fileID: 2800000, guid: eb271b05edb17694d8637682a62167d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00025-texture
+    second: {fileID: 2800000, guid: 4571d070d7f53d0429b6312e1cab5a6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00026-texture
+    second: {fileID: 2800000, guid: 96961039a162cf04282d609a4936c123, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00027-texture
+    second: {fileID: 2800000, guid: abf859330f6bff845a2c0ad58af51304, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00028-texture
+    second: {fileID: 2800000, guid: cf4f1ce4181257d4496bc7d8180cd564, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00029-texture
+    second: {fileID: 2800000, guid: 75ba526b36408cd4f99495abb290b3c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00030-texture
+    second: {fileID: 2800000, guid: 81abbdcc82d9aeb47b1ff67160a91781, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00031-texture
+    second: {fileID: 2800000, guid: 9938ce85e0d353c43845ef12084e16fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00032-texture
+    second: {fileID: 2800000, guid: b0baf2c1ffc36654688ae9a60ed954c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00033-texture
+    second: {fileID: 2800000, guid: 35f7916f677ea504caad15c31362dbba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00034-texture
+    second: {fileID: 2800000, guid: f51c07292c741cc46a47f84be4bf8ba7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00035-texture
+    second: {fileID: 2800000, guid: 1f5485d315df9f34491af11c51aa67ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00036-texture
+    second: {fileID: 2800000, guid: 820aeee382fded645a0a4b02e32cbb26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00037-texture
+    second: {fileID: 2800000, guid: a00d8d6acb9c3f74b84f438483c91dba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00038-texture
+    second: {fileID: 2800000, guid: 76e4f732461ef6d4cad55711228ef96a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00039-texture
+    second: {fileID: 2800000, guid: 154752608dd486241a460659e9c15fe2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00040-texture
+    second: {fileID: 2800000, guid: 2183eb3ee1867e64fa6f8b4028395e65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00041-texture
+    second: {fileID: 2800000, guid: bfe24b93558c3d848ae985526843f260, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00042-texture
+    second: {fileID: 2800000, guid: 0b20e65b2b01b404eb38112fcd652b08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00043-texture
+    second: {fileID: 2800000, guid: 32bdc485ffd19304dabd579f38a745a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00044-texture
+    second: {fileID: 2800000, guid: b433566e7a681e44f9230a55d69ba7ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00045-texture
+    second: {fileID: 2800000, guid: 92d39a3f9c089ae46a3108d72974134c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00046-texture
+    second: {fileID: 2800000, guid: 7e79b2c7faddafd4fafb25c19faa2bb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00047-texture
+    second: {fileID: 2800000, guid: 741353a6c3537024a917b280ca846891, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00048-texture
+    second: {fileID: 2800000, guid: a71b0aec462353647a3376a9938bdb4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00049-texture
+    second: {fileID: 2800000, guid: 04ed54e7d210fa849a7f5b05d0019c78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00050-texture
+    second: {fileID: 2800000, guid: 313f37291ff9db24297ac91648944769, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00051-texture
+    second: {fileID: 2800000, guid: ae5c5060bd13e074d8ad08e58c8d9b8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00052-texture
+    second: {fileID: 2800000, guid: 103dcd8f5d7ff1b40b41c4aa46a37634, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00053-texture
+    second: {fileID: 2800000, guid: 44ff74359258f4f43a61c0bf321d4b1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00054-texture
+    second: {fileID: 2800000, guid: 70c914256582c9c48ad66736626af33c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00055-texture
+    second: {fileID: 2800000, guid: c46ab321265a1134b927c5a27ddc99ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00056-texture
+    second: {fileID: 2800000, guid: 6a72948c10c281e47b62ce26b61d947f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00057-texture
+    second: {fileID: 2800000, guid: 170287234f93a444997a251072fe6d15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00058-texture
+    second: {fileID: 2800000, guid: f0749838f2a2c7b459dd0f122f98d547, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00059-texture
+    second: {fileID: 2800000, guid: df547a7f3180afb409e82286c1a42cf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00060-texture
+    second: {fileID: 2800000, guid: 6a64f9175e07bd048a3a82ecb803829c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00061-texture
+    second: {fileID: 2800000, guid: c5dcb4c7f6820734e9fbcafcd3e8a341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00062-texture
+    second: {fileID: 2800000, guid: 3a1420c2b9ca77144a61bbb6f591af56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00063-texture
+    second: {fileID: 2800000, guid: c49956be9404dbd4f9fc3754213fe14a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00064-texture
+    second: {fileID: 2800000, guid: 386b10956f33efe4b9756a9a84d1dcda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00065-texture
+    second: {fileID: 2800000, guid: 68a422e2afed1e845819cea56cb21014, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00066-texture
+    second: {fileID: 2800000, guid: 25a2cb55a78a80a49a52b4203ee759a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00067-texture
+    second: {fileID: 2800000, guid: 927e43355fb88bd4fa82cdfed5a0d1c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00068-texture
+    second: {fileID: 2800000, guid: 23e1154abe288854bbc969a7a08ca27a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00069-texture
+    second: {fileID: 2800000, guid: 73128168bf9db0c4897f9e74e3315a72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00070-texture
+    second: {fileID: 2800000, guid: ae9e6a68fcc2a034d87179ad2ebbe99e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00071-texture
+    second: {fileID: 2800000, guid: 18d23f68175ca1041b1a7ca828db1e3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00072-texture
+    second: {fileID: 2800000, guid: 261b231453b1469479a2db8d7b15b35b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00073-texture
+    second: {fileID: 2800000, guid: ea39c07a1bd095b43abfb6c3a5b56e03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00074-texture
+    second: {fileID: 2800000, guid: c566ad3cb74277d42bde7ad933608efd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00075-texture
+    second: {fileID: 2800000, guid: f886f70db3bc09e41b143e46b76d13d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00076-texture
+    second: {fileID: 2800000, guid: 74a7419f0d5af9f43b1e04bc1d6a75d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00077-texture
+    second: {fileID: 2800000, guid: 0918887cc02fbdb45a2d96cf24cfb67c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00078-texture
+    second: {fileID: 2800000, guid: a4ee9a73eb5189a4cbffff37e5850b38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00079-texture
+    second: {fileID: 2800000, guid: 1f1a54b5312d97e41a68193a41362a78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00080-texture
+    second: {fileID: 2800000, guid: 1efc7cf5bf18b1a4c847fe98ea8aec8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00081-texture
+    second: {fileID: 2800000, guid: 2cb27b7c72ca23c41af1f66928b70e9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00082-texture
+    second: {fileID: 2800000, guid: 3664de6f735fd0941a058c083e96caa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00083-texture
+    second: {fileID: 2800000, guid: 23813ed8f818ea84090f922f3ce7e514, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00084-texture
+    second: {fileID: 2800000, guid: 8028ed8ad58aec448a2af4559ea8030c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00085-texture
+    second: {fileID: 2800000, guid: 12bc97e4c14def441b8259f350f5e634, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00086-texture
+    second: {fileID: 2800000, guid: 8e7c86319ea768c43868a37dfba30e6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00087-texture
+    second: {fileID: 2800000, guid: 6956d08e2e65b3c48980a8d36fe7d7ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00088-texture
+    second: {fileID: 2800000, guid: 4d80bb1cb1b204340b25a260ec8307d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00089-texture
+    second: {fileID: 2800000, guid: f146298d78595894dba7da6751a85357, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00090-texture
+    second: {fileID: 2800000, guid: a44a3e1242b08724392187b2dde66ad6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00091-texture
+    second: {fileID: 2800000, guid: 4258d4c429e49e44aacd8ab0594f66dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00092-texture
+    second: {fileID: 2800000, guid: 140a82912ccf74e4d9f029d3f09327df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00093-texture
+    second: {fileID: 2800000, guid: b496190e2e5a84d40abbd0514a5d7587, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00094-texture
+    second: {fileID: 2800000, guid: eef2a4f7d68aa8b4089f7b74a878ff30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00095-texture
+    second: {fileID: 2800000, guid: e4940149f35a4db449bc3f8d7f3d4c30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00096-texture
+    second: {fileID: 2800000, guid: b5235977426aec94e93e138a950c335d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00097-texture
+    second: {fileID: 2800000, guid: 8bea5ad0cffe43545977d80f2b2f41d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00098-texture
+    second: {fileID: 2800000, guid: a03b914e40deb9a43a7a9fb1989ec1f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00099-texture
+    second: {fileID: 2800000, guid: 7021f1445a535df4caf13c1a7a4d841c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00100-texture
+    second: {fileID: 2800000, guid: 01e520452fbe5a449903195ccd4251ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00101-texture
+    second: {fileID: 2800000, guid: f40583527ed69224fb62b9ec48fd9db1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00102-texture
+    second: {fileID: 2800000, guid: 83afe8363af491e4fb89d6a5d372d96b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00103-texture
+    second: {fileID: 2800000, guid: 9f486813c2aef0945bd5a99f7582daf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00104-texture
+    second: {fileID: 2800000, guid: 941b818804c2de041b5f0b5f5c956713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00105-texture
+    second: {fileID: 2800000, guid: a8be0ffd4a3ade44caf530b5fc4bd393, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00106-texture
+    second: {fileID: 2800000, guid: a5e9f856b84e7d14d8c92ace6c6aa085, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00107-texture
+    second: {fileID: 2800000, guid: 0bc202a35c004bf42a36b97e558fd932, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00108-texture
+    second: {fileID: 2800000, guid: 87b41e03675d1cf40a378f8b4b383385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00109-texture
+    second: {fileID: 2800000, guid: 1fbdec985423b0d4ba6e2e2b8176ec38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00110-texture
+    second: {fileID: 2800000, guid: c0231e86eed1b394faa2645660037d70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00111-texture
+    second: {fileID: 2800000, guid: d7469c3ff2a615945a80e238d6d2d2c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00112-texture
+    second: {fileID: 2800000, guid: 881dedf93f2215b488c2cddb4c9ad3f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00113-texture
+    second: {fileID: 2800000, guid: 8470521c63d96924989ab49f7b471d08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00114-texture
+    second: {fileID: 2800000, guid: a684f74a13e7b0449932647ee43cdd26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00115-texture
+    second: {fileID: 2800000, guid: e599cc6caeaa9944ea27f41943508590, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00116-texture
+    second: {fileID: 2800000, guid: c4f57ae381029604cbfd9e5fdbb60790, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00117-texture
+    second: {fileID: 2800000, guid: fcce2f5e5ce66274fb8e9bd991108220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00118-texture
+    second: {fileID: 2800000, guid: 8667d132f2a205a499c5db332615ec61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00119-texture
+    second: {fileID: 2800000, guid: c914b8d8ca6a4fc49b25860a1e379565, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00120-texture
+    second: {fileID: 2800000, guid: a53ae18e5c3986d47bb37790b9e5647b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00121-texture
+    second: {fileID: 2800000, guid: 413e220c2047b4241ae6963faead50fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00122-texture
+    second: {fileID: 2800000, guid: a7fd8afcb60f0e24cae0534d21ade4cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00123-texture
+    second: {fileID: 2800000, guid: 4850ded2981adeb48a7a422459dcf136, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00124-texture
+    second: {fileID: 2800000, guid: 57d7899637595fe49ba4bdf52778daab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00125-texture
+    second: {fileID: 2800000, guid: abb3c59f577043940bec8fcec2eb9d9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00126-texture
+    second: {fileID: 2800000, guid: 8a65500871d450d48a3a84710de51f96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00127-texture
+    second: {fileID: 2800000, guid: 1dc111ad003adef44b9fc3afb36f2796, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00128-texture
+    second: {fileID: 2800000, guid: ea2c57daa00fc9b4da6f818dd2c66991, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00129-texture
+    second: {fileID: 2800000, guid: 8cdba18269efa3c45b7acafc88cad02e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00130-texture
+    second: {fileID: 2800000, guid: 0667efce380d6444d9455e014d26c8ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00131-texture
+    second: {fileID: 2800000, guid: 72e0fcd39a551d045bd4eca8de488bb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00132-texture
+    second: {fileID: 2800000, guid: bab7e52c984a3354cbc07b06c33672d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00133-texture
+    second: {fileID: 2800000, guid: 3be3581107a14c04f953ce30076d8675, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00134-texture
+    second: {fileID: 2800000, guid: 531c2380ae9a45a41b52b0943215cc5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00135-texture
+    second: {fileID: 2800000, guid: 449a38d7805f80343a0cb40d895d9bff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00136-texture
+    second: {fileID: 2800000, guid: 045760531e19bde49a232d05c301fcf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00137-texture
+    second: {fileID: 2800000, guid: 10d6a18fc10606444b7db9ab48ce9ef5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00138-texture
+    second: {fileID: 2800000, guid: 719bfc5cc7ae405489ace943f58ddbbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00139-texture
+    second: {fileID: 2800000, guid: 1e36d2e4043b10f48bbd020d76fdcc7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00140-texture
+    second: {fileID: 2800000, guid: 276f81c2cbb91cd40860bd1ac9ea20fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00141-texture
+    second: {fileID: 2800000, guid: 835d6fcc5b1e4064c8d0283849fa6640, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00142-texture
+    second: {fileID: 2800000, guid: c962e5cb8a16723409eeb2c495c27b0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00143-texture
+    second: {fileID: 2800000, guid: 7eb628ca59e67c341996cb7886b721c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00144-texture
+    second: {fileID: 2800000, guid: e285d4860638ea24f8f986bea7e1f5be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00145-texture
+    second: {fileID: 2800000, guid: c394eb79405ab5a4b9424e90989dd325, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00146-texture
+    second: {fileID: 2800000, guid: 39f1c943e1f43fc4fa4cf94654bf8de2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00147-texture
+    second: {fileID: 2800000, guid: 05b9c9a6bc2487e4f92b08ccf6834a54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00148-texture
+    second: {fileID: 2800000, guid: 5171697dcf8920f448c352c6196d105a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00149-texture
+    second: {fileID: 2800000, guid: eab23107068b28343a63e3bdf2b26be3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00150-texture
+    second: {fileID: 2800000, guid: 8082a5e2083e1014181941fdebe688a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00151-texture
+    second: {fileID: 2800000, guid: 1079a83d9b7361342aaff59b9cda3578, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00152-texture
+    second: {fileID: 2800000, guid: d5817110c7842d542a4b70f10f2270d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00153-texture
+    second: {fileID: 2800000, guid: b0b2cadd6a07b114da63bc06e481c523, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00154-texture
+    second: {fileID: 2800000, guid: 20460ad911526064ea6b4f032001a455, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00155-texture
+    second: {fileID: 2800000, guid: 82a44104581b2b644ad5077fb6ba7c72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00156-texture
+    second: {fileID: 2800000, guid: b0e2f3ec03ca6ae4db68e2f9ae5e8ae5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00157-texture
+    second: {fileID: 2800000, guid: 1212dcf47af69b249adaf2790a110078, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00158-texture
+    second: {fileID: 2800000, guid: 4e03c703846c49a4896f28d86346288f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00159-texture
+    second: {fileID: 2800000, guid: 8bae355aaff35784b989d845c305aece, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00160-texture
+    second: {fileID: 2800000, guid: df9146e13defcf44fa9032a6ef9b64b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00161-texture
+    second: {fileID: 2800000, guid: 2727150f2982c014096028631790f103, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00162-texture
+    second: {fileID: 2800000, guid: 8a37f3b96ad241045b8723521d33c5c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00163-texture
+    second: {fileID: 2800000, guid: a1a8d68c856291e47a3c2cd18e232d7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00164-texture
+    second: {fileID: 2800000, guid: b0200961c2af6b541bb5ea82bd054ae9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00165-texture
+    second: {fileID: 2800000, guid: 8317fe1a57d22ac44a8a966f4a889d02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00166-texture
+    second: {fileID: 2800000, guid: 6a1253b2d8724b14f8678fdce752e398, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00167-texture
+    second: {fileID: 2800000, guid: 60de70b872401e64aba14865cef58c70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00168-texture
+    second: {fileID: 2800000, guid: c8b4d590193a3114a980745e298a705d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00169-texture
+    second: {fileID: 2800000, guid: 90316b41e1525cd45ba82bf989a13e34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00170-texture
+    second: {fileID: 2800000, guid: 04f0c3ac9d499d44ba67719ef985a0ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00171-texture
+    second: {fileID: 2800000, guid: 4d11c55ef32962246ba9b58276ebf9b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00172-texture
+    second: {fileID: 2800000, guid: c68c7bdc846819347b05d1e763db6713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00173-texture
+    second: {fileID: 2800000, guid: 7059281fc9360554fa2221cec227a7c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00174-texture
+    second: {fileID: 2800000, guid: da5c524baea4bf14e902233d325bac5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00175-texture
+    second: {fileID: 2800000, guid: 34d974896197d0d4ca2c4c086d501ed2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00176-texture
+    second: {fileID: 2800000, guid: e9d56fbeb59bf6f45b9b4e7bcd902833, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00177-texture
+    second: {fileID: 2800000, guid: dc6336cbb665b454eb5c8fb4dd95ad8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00178-texture
+    second: {fileID: 2800000, guid: e18d516332b5a804aa00e80762336c2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00179-texture
+    second: {fileID: 2800000, guid: 532f26b172b98f243a7bfefb6fd49528, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00180-texture
+    second: {fileID: 2800000, guid: 809d1524d4da6844f915d01619b298e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00181-texture
+    second: {fileID: 2800000, guid: a3926c6ef24f2884cbf9073d9627fb94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00182-texture
+    second: {fileID: 2800000, guid: a2124bd47a2cc154789fe60e25cb26f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00183-texture
+    second: {fileID: 2800000, guid: ffbefa4e41b945f42ac63e00b19592da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00184-texture
+    second: {fileID: 2800000, guid: 7c6958b09b249814ba979ac989f860a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00185-texture
+    second: {fileID: 2800000, guid: 1627b5b30854aa547bdb15e0f2055ecd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00186-texture
+    second: {fileID: 2800000, guid: 8454d01f44a588443a6ec83f97cf5632, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00187-texture
+    second: {fileID: 2800000, guid: 4247290316c8f374c99c7cc85c1479b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00188-texture
+    second: {fileID: 2800000, guid: de30941e6ae231149955cd70d7b81acb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00189-texture
+    second: {fileID: 2800000, guid: 54d79acc5ad68e84a8132a3769a4bf57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00190-texture
+    second: {fileID: 2800000, guid: e32894b827a4f4145b3b80427605dbcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00191-texture
+    second: {fileID: 2800000, guid: 8d65fc0b4b2da4c45a504fdd38b17942, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00192-texture
+    second: {fileID: 2800000, guid: 502fa41ddc8a660428bc8cd1c290d7a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00193-texture
+    second: {fileID: 2800000, guid: 1211d1883f0549742b17d465a3b4a43a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00194-texture
+    second: {fileID: 2800000, guid: 27fde5e470d72394a96def0a6e8da7be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00195-texture
+    second: {fileID: 2800000, guid: fb8a044f5ccb39b458bce0389c4aa582, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00196-texture
+    second: {fileID: 2800000, guid: d2e97f8fa1f27a94292c06ddbf5bdd6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00197-texture
+    second: {fileID: 2800000, guid: 384f091f47927734c8d6d938c71459fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00198-texture
+    second: {fileID: 2800000, guid: 43556ce7907625d47ae58fca5ee261ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00199-texture
+    second: {fileID: 2800000, guid: 0bd9122546c889d4f8e9e584c7d9332c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00200-texture
+    second: {fileID: 2800000, guid: 1008d437d3e03d246bfea2e83ec018f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00201-texture
+    second: {fileID: 2800000, guid: 43335e1aea5e2e548bbc25c926e4ee25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00202-texture
+    second: {fileID: 2800000, guid: c19ffd4fd1b421e43879bad9a4b8ed3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00203-texture
+    second: {fileID: 2800000, guid: d548533d1842ff74d862adcd3977a303, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00204-texture
+    second: {fileID: 2800000, guid: 57acc829174c50a40947504debcf0eed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00205-texture
+    second: {fileID: 2800000, guid: 18a6364fb110cd64ea51185cdad5fdc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00206-texture
+    second: {fileID: 2800000, guid: eb6e85d0e07436544adbb4cf94c345a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00207-texture
+    second: {fileID: 2800000, guid: 2b8cd76c8101afa45b178d9c4b069105, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00208-texture
+    second: {fileID: 2800000, guid: a173f1397b9d02b4ea2cbc0fe86da18d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00209-texture
+    second: {fileID: 2800000, guid: d4212f61e732bd34ca952403dfe68406, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00210-texture
+    second: {fileID: 2800000, guid: 35db16aeec5bcf343a84e0a6eb5fb4e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00211-texture
+    second: {fileID: 2800000, guid: 8d7d6171fdccf954e83ea941a7fb37f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00212-texture
+    second: {fileID: 2800000, guid: 2e97f1ff7d56e8941afc3c81fb3b7da9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00213-texture
+    second: {fileID: 2800000, guid: e6b395941a719504e9f3c1a8e723556f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00214-texture
+    second: {fileID: 2800000, guid: 2815fd6a69ef81e43abd192d3665d0b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00215-texture
+    second: {fileID: 2800000, guid: 357fbce9f97f9524fb4052181248ea00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00216-texture
+    second: {fileID: 2800000, guid: 4f318c87fa320924d9fb42468b04e8a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00217-texture
+    second: {fileID: 2800000, guid: 788ed3a083b19dd4d893695d756ce638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00218-texture
+    second: {fileID: 2800000, guid: 75e7ce1b18c8d944b938532858c9927e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00219-texture
+    second: {fileID: 2800000, guid: cb2fbe60249546c4eb28f1be9be42426, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00220-texture
+    second: {fileID: 2800000, guid: 494c2cdc44ee8e0478f37d6522031351, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00221-texture
+    second: {fileID: 2800000, guid: 6c965fc768679ae4c8fa07b2d56668fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00222-texture
+    second: {fileID: 2800000, guid: 0196fa5151a81f849bd1e47393e6eee5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00223-texture
+    second: {fileID: 2800000, guid: 91f56c95895060245a5a29ac0cdddd1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00224-texture
+    second: {fileID: 2800000, guid: d78a6084211eb9b489ee98301d7f26c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00225-texture
+    second: {fileID: 2800000, guid: deb399fbfc7a3cb4aa50e89e61c6c3b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00226-texture
+    second: {fileID: 2800000, guid: 3255029b4bea1e44d93739f8c29f81e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00227-texture
+    second: {fileID: 2800000, guid: 63b35fbddb2966f408b055b8bd9a16e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00228-texture
+    second: {fileID: 2800000, guid: 6ed6278b1306fd348afb13b91f1e36df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00229-texture
+    second: {fileID: 2800000, guid: 76183730e8907f44abf996762c184758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00230-texture
+    second: {fileID: 2800000, guid: 29dc95ee7a0c63846964f48418860125, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00231-texture
+    second: {fileID: 2800000, guid: 45b5e2f0b2e2fe647aaf9b1de1762f9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00232-texture
+    second: {fileID: 2800000, guid: 9d2ee2a670614d1459d5a51b83e443e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00233-texture
+    second: {fileID: 2800000, guid: 86a0cd95f3287b44e90b04c4a9b4b2ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00234-texture
+    second: {fileID: 2800000, guid: 3ca86444b62727e4fa920914697764d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00235-texture
+    second: {fileID: 2800000, guid: 18ff9ab9338ef3145b0a4b0d2103186d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00236-texture
+    second: {fileID: 2800000, guid: e4450c1888774864c9df437291f7bd9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00237-texture
+    second: {fileID: 2800000, guid: 3ff53addfc54e2544952277f603e9672, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00238-texture
+    second: {fileID: 2800000, guid: f1036b8ac93a2c34daaa52ab95614039, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00239-texture
+    second: {fileID: 2800000, guid: 858c595b81c2c944ba2b11a577f49ffa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00240-texture
+    second: {fileID: 2800000, guid: b35f65381a6cdf446af93f4e5e8e50ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00241-texture
+    second: {fileID: 2800000, guid: e7814d39a53783e49a04fab415826cdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00242-texture
+    second: {fileID: 2800000, guid: 2049b6b355cb2434f8af4ea029614642, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00243-texture
+    second: {fileID: 2800000, guid: 6a7b16fe27c39fd4884b2b97e22a9cd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00244-texture
+    second: {fileID: 2800000, guid: 5854f4537afc9fa46b5a869e59178eee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00245-texture
+    second: {fileID: 2800000, guid: ff9945bed05c0e9459be87f25a753210, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00246-texture
+    second: {fileID: 2800000, guid: d6640989bdf692142bd98c84cf5b5d5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00247-texture
+    second: {fileID: 2800000, guid: 232d964ff5937e8439e5b2ac0a7672e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00248-texture
+    second: {fileID: 2800000, guid: 3cdb7b7c895f4804b8472e25956a1378, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00249-texture
+    second: {fileID: 2800000, guid: 2c6b5379cb5f14e4aaa7856fd6b0440b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00250-texture
+    second: {fileID: 2800000, guid: a615b1342e4d315489dd98f732dd5440, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00251-texture
+    second: {fileID: 2800000, guid: 129c4d67ddfecf242adeea0a046a0996, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00252-texture
+    second: {fileID: 2800000, guid: 8e507fd2879911446bfb407424be4f48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00253-texture
+    second: {fileID: 2800000, guid: 572a14ceabea3544599c2ee91a6c91bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00254-texture
+    second: {fileID: 2800000, guid: cfb6a7275ee9aab4e91538a0f71f50cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00255-texture
+    second: {fileID: 2800000, guid: 1f68b84cd174f6549827f014e85de27c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00256-texture
+    second: {fileID: 2800000, guid: 2ad093c45da883a42815615caa279d19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00257-texture
+    second: {fileID: 2800000, guid: d0e8098b768dfac429113cc5979a05f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00258-texture
+    second: {fileID: 2800000, guid: bded38159a02942428a97d3892ec55e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00259-texture
+    second: {fileID: 2800000, guid: 27e10942a48947448955a8fe740ebd4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00260-texture
+    second: {fileID: 2800000, guid: 25dab865d0af3d7499b393bf13e8df2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00261-texture
+    second: {fileID: 2800000, guid: def2dcfdc0991b84bbdfe608773ed412, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00262-texture
+    second: {fileID: 2800000, guid: 91194d74d3fccdb42a8ff305151c1063, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00263-texture
+    second: {fileID: 2800000, guid: c1ead851231a70945ba2b3d5fa0c4e39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00264-texture
+    second: {fileID: 2800000, guid: 4cce9cca97dbcf04d89a0518341a0dfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00265-texture
+    second: {fileID: 2800000, guid: e5c852ed1611e044eb2da9cb02cd412f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00266-texture
+    second: {fileID: 2800000, guid: eaa13fe2baa0c6d4daf6fae0e45ef6f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00267-texture
+    second: {fileID: 2800000, guid: 73c20a1162d943646a86d276affe46be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00268-texture
+    second: {fileID: 2800000, guid: ee898baf4d603304a95677989952318c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00269-texture
+    second: {fileID: 2800000, guid: 0280c4d2a30ba774e9cf8dad6aacd00f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00270-texture
+    second: {fileID: 2800000, guid: 8646c2c55104b7d47a33b16104ac0db6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00271-texture
+    second: {fileID: 2800000, guid: 540c4b9aa5b80174fbcb69fa0d6747b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00272-texture
+    second: {fileID: 2800000, guid: ee28b22b0387af94eb98852d5ccd3264, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00273-texture
+    second: {fileID: 2800000, guid: b48352c7ed5ac284fb74b54857380c99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00274-texture
+    second: {fileID: 2800000, guid: d924812c69f1667489d0eb9fa8ead784, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00275-texture
+    second: {fileID: 2800000, guid: c78cb3ccd055ebd4d8e0a6764bc33c47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00276-texture
+    second: {fileID: 2800000, guid: 8a40fb246b2a252459082595ce3d5dd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00277-texture
+    second: {fileID: 2800000, guid: fa4029fa83aa7ac4b9e39c15ac1c7101, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00278-texture
+    second: {fileID: 2800000, guid: 013237d20cbb91149a672a4d8005519b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00279-texture
+    second: {fileID: 2800000, guid: ec0e6196bfc91da46bcbb160cdc0f902, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00280-texture
+    second: {fileID: 2800000, guid: c8b2ad5e36ab78f42943eeb30e00b7c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00281-texture
+    second: {fileID: 2800000, guid: 58fed7de89091ca41b0c4b39d91145e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00282-texture
+    second: {fileID: 2800000, guid: db79884f921037b408d65a0612301d6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00283-texture
+    second: {fileID: 2800000, guid: 07d5243baedf1c44399573c8ed62aa64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00284-texture
+    second: {fileID: 2800000, guid: 1ad7a9645cfc1674ba4dccc224cb6b8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00285-texture
+    second: {fileID: 2800000, guid: 41ac079c45d57f24292a7ec2abf4a11e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00286-texture
+    second: {fileID: 2800000, guid: fbd5fe2279b967b47bc4b31b7b2816f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00287-texture
+    second: {fileID: 2800000, guid: cae9997f9d4d01e4297d9a50fbe1f34c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00288-texture
+    second: {fileID: 2800000, guid: 9af09caf175ae4a409d15c07bc8b7c08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00289-texture
+    second: {fileID: 2800000, guid: f2554e1dae069ea4092b49f92130aa89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00290-texture
+    second: {fileID: 2800000, guid: 1b39261bffcbecb468cc0268f02f69b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00291-texture
+    second: {fileID: 2800000, guid: d1460a30998e35e43b9c9dbda548aacb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00292-texture
+    second: {fileID: 2800000, guid: 3d389e22e1dac814e8281fddaff11a7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00293-texture
+    second: {fileID: 2800000, guid: 584a9054a24f3e6459f1c66543b866a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00294-texture
+    second: {fileID: 2800000, guid: 63dfe4f452103e941beb75e2c8b308dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00295-texture
+    second: {fileID: 2800000, guid: a8a6c65ace2af1f42adfae6177265b00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00296-texture
+    second: {fileID: 2800000, guid: c41cd82eddbfabb4791e0df266d68b6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00297-texture
+    second: {fileID: 2800000, guid: 97708059edfae0e48b7bcf6fa86a14cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00298-texture
+    second: {fileID: 2800000, guid: 7d2e24065815afd4fbd43641b61b014f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00299-texture
+    second: {fileID: 2800000, guid: b7f27b104f2175e41a01fbb598febac2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00300-texture
+    second: {fileID: 2800000, guid: 872d39557db715d469e74d5f740987f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00301-texture
+    second: {fileID: 2800000, guid: 3df0592675560224ab87e8a64a483e54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00302-texture
+    second: {fileID: 2800000, guid: fbe03ad2741d1794e9a2a165fd0a25db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00303-texture
+    second: {fileID: 2800000, guid: 9226a13ff89a11841b382fc361d59e93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00304-texture
+    second: {fileID: 2800000, guid: d98500b7292455d42a0abb9f9bafe136, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00305-texture
+    second: {fileID: 2800000, guid: 0a973fbaea9d0f74087140f5679a888e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00306-texture
+    second: {fileID: 2800000, guid: 272c2100418b4a449a0c8f031967d5f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00307-texture
+    second: {fileID: 2800000, guid: 141d93b7096781149b346bf91cfd7261, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00308-texture
+    second: {fileID: 2800000, guid: 2918b932d42aead4887d0d2fa8130820, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00309-texture
+    second: {fileID: 2800000, guid: 5453883143397904d9eccfc4191de644, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00310-texture
+    second: {fileID: 2800000, guid: 32ca350dcf330f4409763937bceb9b7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00311-texture
+    second: {fileID: 2800000, guid: 469c8f59d1533324591b10e826074daf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00312-texture
+    second: {fileID: 2800000, guid: 8b9270fe20a99ac44a0190f404ab7713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00313-texture
+    second: {fileID: 2800000, guid: 299fab79c5f088a40bfcf698954b2aff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00314-texture
+    second: {fileID: 2800000, guid: 0ba40deb37219d844a5b21402f1540a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00315-texture
+    second: {fileID: 2800000, guid: da32f85eea059614e8ef6e878a0fa4c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00316-texture
+    second: {fileID: 2800000, guid: 9adbf0fc8aa0b0744b150f916eb54692, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00317-texture
+    second: {fileID: 2800000, guid: b7f07044e8c281c42b144f31862de320, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00318-texture
+    second: {fileID: 2800000, guid: 3d92760d3bfc4d2449b14ae968ab604d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00319-texture
+    second: {fileID: 2800000, guid: c75ab6f85a8f4cf4ca4c06bf48fba02a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00320-texture
+    second: {fileID: 2800000, guid: ed01274df777dd14a9b2b509b999196f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00321-texture
+    second: {fileID: 2800000, guid: 5268ae03909aa3540b73755810a9a97d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00322-texture
+    second: {fileID: 2800000, guid: 31970f84e4d7f1947a9ad8bae9e956dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00323-texture
+    second: {fileID: 2800000, guid: bdbd41570c2b22647a05edf479786a8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00324-texture
+    second: {fileID: 2800000, guid: 8047376442f39254485abc36d1bc3ce5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00325-texture
+    second: {fileID: 2800000, guid: fb4bebb64427adb418ac549e84a5e5e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00326-texture
+    second: {fileID: 2800000, guid: 6c71f01e02a67f849b4000891686a7db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00327-texture
+    second: {fileID: 2800000, guid: 65e0bfa3b75b86048b2354b20c0c291d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00328-texture
+    second: {fileID: 2800000, guid: 3868d0dcd72b16d42a1c7c80ead69f97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00329-texture
+    second: {fileID: 2800000, guid: 32444aab982d0d649bc6841c47692705, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00330-texture
+    second: {fileID: 2800000, guid: 68907a56916a87043a4b95378c103279, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00331-texture
+    second: {fileID: 2800000, guid: 620573e413780ef41be364957a60ecdf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00332-texture
+    second: {fileID: 2800000, guid: 6651b644282ecce4da250929f392d260, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00333-texture
+    second: {fileID: 2800000, guid: 75019f8e667988044b432fd0d81f5bfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00334-texture
+    second: {fileID: 2800000, guid: f443fc599b09ab8459f633f6d29995eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00335-texture
+    second: {fileID: 2800000, guid: 0e1316081225a154b8c2d127dea31662, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00336-texture
+    second: {fileID: 2800000, guid: b01a05e07c7d5274188c1786ffa4f6aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00337-texture
+    second: {fileID: 2800000, guid: 9ff1ef112b13b224485627b906f40c49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00338-texture
+    second: {fileID: 2800000, guid: 645bdbabee329804d95d62ed2e067236, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00339-texture
+    second: {fileID: 2800000, guid: 80aa2fecd89682444b02e0918014ca95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00340-texture
+    second: {fileID: 2800000, guid: 30b9b97d8165f4d499b6db1e089716eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00341-texture
+    second: {fileID: 2800000, guid: e390b1aeb6fd3964993d36c763124205, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00342-texture
+    second: {fileID: 2800000, guid: a05c85fdb70a1b94fada4c942be90af4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00343-texture
+    second: {fileID: 2800000, guid: 342322dc81bff4047b9152ac31af966e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00344-texture
+    second: {fileID: 2800000, guid: b0fb3d7a48f36f446a09a04fb99b79b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00345-texture
+    second: {fileID: 2800000, guid: dab58d3700a88ff47bf803c148880d45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00346-texture
+    second: {fileID: 2800000, guid: 7776ad5de69475245a7b27df31af502a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00347-texture
+    second: {fileID: 2800000, guid: 916ec852e85c1a347b6deccb7690ad7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00348-texture
+    second: {fileID: 2800000, guid: b135a2852373cec4ba39bd3abd56bc64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00349-texture
+    second: {fileID: 2800000, guid: e242c748eee0fa646a2f8e9977a64301, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00350-texture
+    second: {fileID: 2800000, guid: 6fd4d22fb271ceb4fb6072dbdce98df2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00351-texture
+    second: {fileID: 2800000, guid: 9bd17468a63b5684692a59fcdb916579, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00352-texture
+    second: {fileID: 2800000, guid: d09dfe2830346be4eb07d5b1883bc9cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00353-texture
+    second: {fileID: 2800000, guid: 605b3bc529172fd41a3ac64e013575c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00354-texture
+    second: {fileID: 2800000, guid: 8472342fcdf4bfa4a93dcfbef6c71f08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00355-texture
+    second: {fileID: 2800000, guid: 53f1bcb367981b74f84ab3a9cbb5bde3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00356-texture
+    second: {fileID: 2800000, guid: 234d3352d6ccfef488a99d48ae7bf908, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00357-texture
+    second: {fileID: 2800000, guid: efbb5547b973ade46b3b10efcfc347c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00358-texture
+    second: {fileID: 2800000, guid: 325345f85b8f0c2478179118722d1aa9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00359-texture
+    second: {fileID: 2800000, guid: 4b5db5c8459bbc64d90fe13a8871a18b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00360-texture
+    second: {fileID: 2800000, guid: cfb2265f85ce458449748d02d4fa7788, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00361-texture
+    second: {fileID: 2800000, guid: 5723179fb14ecc749a42274a1606a36f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00362-texture
+    second: {fileID: 2800000, guid: 1e7dfbb12474ce341afc7acb805293df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00363-texture
+    second: {fileID: 2800000, guid: 012833b19e93e5a46ad14533a1cbdb99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00364-texture
+    second: {fileID: 2800000, guid: d267db1a92d2e144aaea1df4ff36cdea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00365-texture
+    second: {fileID: 2800000, guid: b726e7f94983ba14c965efa6a7a5dcc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00366-texture
+    second: {fileID: 2800000, guid: 96d2643ca3eac074097ceae4dc0ad16a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00367-texture
+    second: {fileID: 2800000, guid: e1e16c123a7cdf943ba5bb960fe536eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00368-texture
+    second: {fileID: 2800000, guid: f1e620a303f3a55459e0629ddc12457b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00369-texture
+    second: {fileID: 2800000, guid: 54ae37a73a1872e4da2af3bfb4533e42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00370-texture
+    second: {fileID: 2800000, guid: e1a61e2a946ffa744abca7c7f3871f78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00371-texture
+    second: {fileID: 2800000, guid: a7fe7523a0e4d1746bdead58285fefc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00372-texture
+    second: {fileID: 2800000, guid: 6156786978ec7e54f92f35c93de44fc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00373-texture
+    second: {fileID: 2800000, guid: c3053b66234a0d64e9d2151437757772, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00374-texture
+    second: {fileID: 2800000, guid: 7fc017cdb3251e34f8954ec25325bdfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00375-texture
+    second: {fileID: 2800000, guid: fd10fe53485f7e74491bc49ad76bfb53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00376-texture
+    second: {fileID: 2800000, guid: 3b9f510419ecfaf489b8a51dda2da3f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00377-texture
+    second: {fileID: 2800000, guid: 59ae00d574d5cdb4ba0e3dabaa5cb666, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00378-texture
+    second: {fileID: 2800000, guid: faeb54ef2bc38d842afcb6327be4c974, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00379-texture
+    second: {fileID: 2800000, guid: fc0629abdca741d4ea88ca4854eff787, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00380-texture
+    second: {fileID: 2800000, guid: 2a232577ed62dad43b8ab2f7994f2349, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00381-texture
+    second: {fileID: 2800000, guid: c1fbf9b37ede1c94fb278ca05f8cf73a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00382-texture
+    second: {fileID: 2800000, guid: 40f5ef156f405094aac5cfb26baea081, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00383-texture
+    second: {fileID: 2800000, guid: 9adc63f07e9cd3f469a40c1458dd9305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00384-texture
+    second: {fileID: 2800000, guid: aaa1bc9d21964fc46a0af7d18f483843, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00385-texture
+    second: {fileID: 2800000, guid: 68bd350a0a81c8d4da2d3e0bdb41ca31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00386-texture
+    second: {fileID: 2800000, guid: e1c3293aa5cb11844b1f6dbe32db899e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00387-texture
+    second: {fileID: 2800000, guid: 05c5f4261392c0646b78a8e23e04b486, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00388-texture
+    second: {fileID: 2800000, guid: d2b510b8ecbdb734f9a8a9656ee3960d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00389-texture
+    second: {fileID: 2800000, guid: ba32d5522b7fb6842995ce146a3bf923, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00390-texture
+    second: {fileID: 2800000, guid: 3e5cda5fe952d0748940cb938bf15e65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00391-texture
+    second: {fileID: 2800000, guid: bfdb5cadc7e199744bcebd051307f435, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00392-texture
+    second: {fileID: 2800000, guid: 1dd1e30aca3629e43a608e2f0dda5d5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00393-texture
+    second: {fileID: 2800000, guid: 7be19afd2206e4041957efedb9b9b237, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00394-texture
+    second: {fileID: 2800000, guid: b67cf873220ca9943bd09e3393f12fd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00395-texture
+    second: {fileID: 2800000, guid: 5e5f1e9419a83bd4da15607a9c1375c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00396-texture
+    second: {fileID: 2800000, guid: 862115fb4cfb0e44ea53c73ef0434580, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00397-texture
+    second: {fileID: 2800000, guid: 7b7160febc8332840b89e4c6b24674ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00398-texture
+    second: {fileID: 2800000, guid: b168dab0e4161a34184f7f2da9b129d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00399-texture
+    second: {fileID: 2800000, guid: 7db7d664e1d855b418febdbe40b64c9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00400-texture
+    second: {fileID: 2800000, guid: a0e9e0550bf7ef149bff76e6a1aa2727, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00401-texture
+    second: {fileID: 2800000, guid: 5e38cc924455423488e242e97674be99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00402-texture
+    second: {fileID: 2800000, guid: 1819b3de30ad7f64cb3ef18adc4bd184, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00403-texture
+    second: {fileID: 2800000, guid: a6a2c8353f98f214f93581eb7a95b152, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00404-texture
+    second: {fileID: 2800000, guid: e698cce326059f34bb7b32a23c954355, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00405-texture
+    second: {fileID: 2800000, guid: 885befb0535fb0f42a8b03fbb11410cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00406-texture
+    second: {fileID: 2800000, guid: aa7cce433917e264098957ca7808bae4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00407-texture
+    second: {fileID: 2800000, guid: 379d84768e4e1ca40b855d370c058636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00408-texture
+    second: {fileID: 2800000, guid: d512d939889600c47919a2484a36a2da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00409-texture
+    second: {fileID: 2800000, guid: 7c7a1a7498255394e9eefef9ecc1ec0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00410-texture
+    second: {fileID: 2800000, guid: 2a02eadd0227c7f46a91d477caf9c93c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00411-texture
+    second: {fileID: 2800000, guid: 6a1a57acfb252c44d9a63a4146fee756, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00412-texture
+    second: {fileID: 2800000, guid: ffb51806f481176419ef85ab7b52336e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00413-texture
+    second: {fileID: 2800000, guid: 37cd767211c7be945a30688e580400f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00414-texture
+    second: {fileID: 2800000, guid: e1a942e5bbc7e58418b0491b40b30a9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00415-texture
+    second: {fileID: 2800000, guid: 156f61f5c8a6ab04f9760afe87f1f5e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00416-texture
+    second: {fileID: 2800000, guid: 2207756913f16f843a8977e5b19f9bc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00417-texture
+    second: {fileID: 2800000, guid: d9582e1d6db9dd4498acb71477fc8349, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00418-texture
+    second: {fileID: 2800000, guid: 215f37168798a95469bf4544a02d29d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00419-texture
+    second: {fileID: 2800000, guid: 07c527cc7fc9e554cad4b0cba1fe6fe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00420-texture
+    second: {fileID: 2800000, guid: 58b79f62bb815e24b946804469b84c40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00421-texture
+    second: {fileID: 2800000, guid: d6638da40fa302d48bd075980cf1f2a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00422-texture
+    second: {fileID: 2800000, guid: d48816060ef704743b0f039fcc4f3912, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00423-texture
+    second: {fileID: 2800000, guid: 3a67988912e36794abf34a24246b8633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00424-texture
+    second: {fileID: 2800000, guid: 9c4c567a31ec0af4686f1fb782705b44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00425-texture
+    second: {fileID: 2800000, guid: cd24fb355bbb004418dcdc7e5d46c70e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00426-texture
+    second: {fileID: 2800000, guid: 870e53d21f37da1439f7925202777305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00427-texture
+    second: {fileID: 2800000, guid: 723acc083f4908442984ce4e5ea01b5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00428-texture
+    second: {fileID: 2800000, guid: e2c5fea891525664cb2a9ba83abb5a9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00429-texture
+    second: {fileID: 2800000, guid: 8ce56ab94054ba7488940bf1ab472709, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00430-texture
+    second: {fileID: 2800000, guid: 9b7ff9d519976374fb2b38a794d19120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00431-texture
+    second: {fileID: 2800000, guid: 84f30f83af03acf43b147312e725f814, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00432-texture
+    second: {fileID: 2800000, guid: 540b1989a8cbeac46833b5e51f2b93c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00433-texture
+    second: {fileID: 2800000, guid: 0592ae3db03d8554fb4715846658795b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00434-texture
+    second: {fileID: 2800000, guid: 37e410a73074b5b4e92f226e2c3f781f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00435-texture
+    second: {fileID: 2800000, guid: 10654be7a2d5a464c9d40a847a4f1c3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00436-texture
+    second: {fileID: 2800000, guid: 9e37f95673ed033439dda4912fd9d0fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00437-texture
+    second: {fileID: 2800000, guid: a23f7380acca41240a23cee224353414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00438-texture
+    second: {fileID: 2800000, guid: 15d37891200edd44eb78d622209ce955, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00439-texture
+    second: {fileID: 2800000, guid: 1e23dd0696bd9d04ab8f2187d0e3acdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00440-texture
+    second: {fileID: 2800000, guid: 9fa3d1c87f78695469d6c120c741a0b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00441-texture
+    second: {fileID: 2800000, guid: 902c00b8697054b4a8d53d094ebf1919, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00442-texture
+    second: {fileID: 2800000, guid: 40c6af62cbca05a4f9b90cd9e4dc3aab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00443-texture
+    second: {fileID: 2800000, guid: 1124fabdce4a4af449c1ace42aee7810, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00444-texture
+    second: {fileID: 2800000, guid: 1597608d6dd019e4f904256a266bc6a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00445-texture
+    second: {fileID: 2800000, guid: 04b9d8ee065c5df4ba45a2707944461d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00446-texture
+    second: {fileID: 2800000, guid: bc575e4a9402e43419777e64f267aa12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00447-texture
+    second: {fileID: 2800000, guid: 539501b5a3de97b46a82bd44157c112f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00448-texture
+    second: {fileID: 2800000, guid: 2e93af605792aa64bb1a4b5afd476ee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00449-texture
+    second: {fileID: 2800000, guid: 4ef6d6bdcd8a6304d903d36c1d260f7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00450-texture
+    second: {fileID: 2800000, guid: 792e05d237e96ff48a783ca2f9e3a4a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00451-texture
+    second: {fileID: 2800000, guid: d079326ca4a53a447b5071f47a9bd667, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00452-texture
+    second: {fileID: 2800000, guid: 2eac734aefe261a45a7ece79772c75d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00453-texture
+    second: {fileID: 2800000, guid: 320c36af3a9db764696c238c1771a517, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00454-texture
+    second: {fileID: 2800000, guid: 06946c9438b160643bc4a642a4f8919a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00455-texture
+    second: {fileID: 2800000, guid: f997ce7aa4a54a44da89f93796a359a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00456-texture
+    second: {fileID: 2800000, guid: 70b0af4a7da2a314eaa115dfb32b339f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00457-texture
+    second: {fileID: 2800000, guid: 50cdf6463bf592f42a58533d7bc7d01a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00458-texture
+    second: {fileID: 2800000, guid: ff041e7e96c80454f96272e9b262f6ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00459-texture
+    second: {fileID: 2800000, guid: 5e19d018306358a49ad843272aa5bff0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00460-texture
+    second: {fileID: 2800000, guid: 4aeeb8c647d69514e8fe6df9dacaed8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00461-texture
+    second: {fileID: 2800000, guid: 8334fd5806f6fd249b7ac446c2812e01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00462-texture
+    second: {fileID: 2800000, guid: 98e11c2a78d07fc4bb43a845b8fdab17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00463-texture
+    second: {fileID: 2800000, guid: 324f831651fe9cc4e9251399163279a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00464-texture
+    second: {fileID: 2800000, guid: 60bbde007da89e4439ca82a24ce428a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00465-texture
+    second: {fileID: 2800000, guid: b0c0466636cd8f942ab02e550515b2e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00466-texture
+    second: {fileID: 2800000, guid: 052895daf7f6fac43b9e1e666c427d1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00467-texture
+    second: {fileID: 2800000, guid: 665cbbebc94e63544b07ad0f0b7541b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00468-texture
+    second: {fileID: 2800000, guid: 4eb4ab2b6bfb26e4cbf668be31980e73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00469-texture
+    second: {fileID: 2800000, guid: 598b840b7cb121f45bd0b6bd3b4aba21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00470-texture
+    second: {fileID: 2800000, guid: 32a86bfa6e0b7224d89c27b564027ae5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00471-texture
+    second: {fileID: 2800000, guid: 0135b8fbce04295448405cc790ca69af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00472-texture
+    second: {fileID: 2800000, guid: 25a361aa10168e748b76b259b975fd47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00473-texture
+    second: {fileID: 2800000, guid: fa34538c29431e648bb1b54e110a68e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00474-texture
+    second: {fileID: 2800000, guid: af32f82aa88e2f948bbdcbb44d7150e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00475-texture
+    second: {fileID: 2800000, guid: 7c2e8e47d2a983d4380faff31d1596a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00476-texture
+    second: {fileID: 2800000, guid: df33fbd02b22ed34cb71a21149ff8b21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00477-texture
+    second: {fileID: 2800000, guid: 4808e22edf666784d9d079a7c4d88f06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00478-texture
+    second: {fileID: 2800000, guid: 5ae4c1a29bdad004780dbfb578eed3fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00479-texture
+    second: {fileID: 2800000, guid: f3f81493d0ac0954b8bc40c43bd599ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00480-texture
+    second: {fileID: 2800000, guid: abe4d95fe5c9131449ca8dc09126d28e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00481-texture
+    second: {fileID: 2800000, guid: f9344657d2d4330429e804fec80add0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00482-texture
+    second: {fileID: 2800000, guid: 9bcc4bd1f7fbc1c4cbf7e86bc67646b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00483-texture
+    second: {fileID: 2800000, guid: 8d58221354d352640878413a37e0a31d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00484-texture
+    second: {fileID: 2800000, guid: f3800874185b9924abdc75f008e321c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00485-texture
+    second: {fileID: 2800000, guid: 8ced86916a8c1e64fa14919932b7fd3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00486-texture
+    second: {fileID: 2800000, guid: 806a4781f53e43244ad8059a18b1e83c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00487-texture
+    second: {fileID: 2800000, guid: 4ce41aada61b8ec4aaf5fec003cd9da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00488-texture
+    second: {fileID: 2800000, guid: 4786be69b280f3f4c9e462b505a2a30c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00489-texture
+    second: {fileID: 2800000, guid: 18834c6cd57efdb4d89a64a27ead7280, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00490-texture
+    second: {fileID: 2800000, guid: c8be00614fb66f846bbc13ebd34b8931, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00491-texture
+    second: {fileID: 2800000, guid: 507cb4c07723cfa44ac32e63a460775c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00492-texture
+    second: {fileID: 2800000, guid: 41d3050403070264c8db75f001fabf5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00493-texture
+    second: {fileID: 2800000, guid: 30255e4bbace3ad4cb9d6e205b99b12f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00494-texture
+    second: {fileID: 2800000, guid: 0c1740840d957a8438de41d594314b5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00495-texture
+    second: {fileID: 2800000, guid: 9101eaaa291eb5d428e6b7443ed9720e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00496-texture
+    second: {fileID: 2800000, guid: f370a2a5e3d150246b2c25381f04e69d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00497-texture
+    second: {fileID: 2800000, guid: 97d7e146befb35d488d2443324d0bded, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00498-texture
+    second: {fileID: 2800000, guid: 9e31d1663ea200c41a7fbfa4154e4045, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00499-texture
+    second: {fileID: 2800000, guid: 46b5aca718af57748937bec6707a8851, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00500-texture
+    second: {fileID: 2800000, guid: f1c4f16b891aaff4fa2e8e625c469c74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00501-texture
+    second: {fileID: 2800000, guid: 5b7d79be94f64d54da3c0bdcecdb3779, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00502-texture
+    second: {fileID: 2800000, guid: abe52350f11b781498c205a7c8887d27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00503-texture
+    second: {fileID: 2800000, guid: 1f80668f2b21ad147b7d1cd9229f3bf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00504-texture
+    second: {fileID: 2800000, guid: 7a475d78f6e7e1744bab5f88558d4e1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00505-texture
+    second: {fileID: 2800000, guid: e4d0bceeb361515468fbed23afb5bfed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00506-texture
+    second: {fileID: 2800000, guid: 1f4785a545ec7a941b3a45f7d5c5163d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00507-texture
+    second: {fileID: 2800000, guid: 67c327a726d416c4c9838ff9a7ff3089, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00508-texture
+    second: {fileID: 2800000, guid: 79932d538fd2bee41b1fa24598adbf31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00509-texture
+    second: {fileID: 2800000, guid: 2222d5707e307cd4d9a3d7c2bfc88b9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00510-texture
+    second: {fileID: 2800000, guid: e415fef5cc63f7e43a6487894892dc50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00511-texture
+    second: {fileID: 2800000, guid: 7534e8e52b5b022488fa3fe0514d9142, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00512-texture
+    second: {fileID: 2800000, guid: 5cdab3a91ccd8c3489a2515b2b58fa1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00513-texture
+    second: {fileID: 2800000, guid: 684ed3a8c8d34c94caede50e7ca79c35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00514-texture
+    second: {fileID: 2800000, guid: 2fb8985363083fb4ab5f16bcbda858dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00515-texture
+    second: {fileID: 2800000, guid: f3d9aa6b3a691b949a90972ea048b9f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00516-texture
+    second: {fileID: 2800000, guid: b3aa08d71724a7d40b0fd175430f17f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00517-texture
+    second: {fileID: 2800000, guid: 43f30e73cf156be498c67ab081039533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00518-texture
+    second: {fileID: 2800000, guid: 536d3a6dd1ed92a47a0021351a63aa1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00519-texture
+    second: {fileID: 2800000, guid: c27005d373626994b970b85a6b1ed74b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00520-texture
+    second: {fileID: 2800000, guid: 1a7fb0d17c3c4034d9f5e9c0db083926, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00521-texture
+    second: {fileID: 2800000, guid: da6a28eeddbfb61498f13a8ecf277e65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00522-texture
+    second: {fileID: 2800000, guid: 48fdba4a8932d1d4590710f73f19c4bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00523-texture
+    second: {fileID: 2800000, guid: fef4724c81c5f8e4b829d4d149a58a0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00524-texture
+    second: {fileID: 2800000, guid: ec5289a65c913c6448732623957d1a07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00525-texture
+    second: {fileID: 2800000, guid: 9a6a92aebfd47a142af293541e962eac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00526-texture
+    second: {fileID: 2800000, guid: 5150c30fc9ed0d64aa9adaa0329197f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00527-texture
+    second: {fileID: 2800000, guid: e9556cf027e263146917d108673d0f92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00528-texture
+    second: {fileID: 2800000, guid: d6c6f768e27b1a34dbdaea31c6e39fcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00529-texture
+    second: {fileID: 2800000, guid: 5556d94ed63d4bf479f4ed9ef744a58d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00530-texture
+    second: {fileID: 2800000, guid: 8c12f3d76e7138342a7488ea97db8601, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00531-texture
+    second: {fileID: 2800000, guid: ffa9be9a618599043bf7ed5905e157c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00532-texture
+    second: {fileID: 2800000, guid: 86e1144435150a44180956b6588f36e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00533-texture
+    second: {fileID: 2800000, guid: 6f4e960e732735b4e9d40d16387d33cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00534-texture
+    second: {fileID: 2800000, guid: b105c4330b82c724cba1639648ccf008, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00535-texture
+    second: {fileID: 2800000, guid: 2ef17794cad045a4f9c8b0e50c3808f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00536-texture
+    second: {fileID: 2800000, guid: 532aecacd620df944920a2111cb8f1ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00537-texture
+    second: {fileID: 2800000, guid: 24d39d9c18bb5f849a88873845dcaa65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00538-texture
+    second: {fileID: 2800000, guid: 91a8445e397208243a122a3237748564, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00539-texture
+    second: {fileID: 2800000, guid: 8be37d06f124fde429d86dfd81fa8b84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00540-texture
+    second: {fileID: 2800000, guid: d0e63679b48f8664a829de84e5b9b7f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00541-texture
+    second: {fileID: 2800000, guid: bf5fe6a40d79a484186244b9137ef9a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00542-texture
+    second: {fileID: 2800000, guid: 7720b6ffa38c13f45a1791c83987c63d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00543-texture
+    second: {fileID: 2800000, guid: e984b75fafa5045418843a76f7e66495, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00544-texture
+    second: {fileID: 2800000, guid: 9a350fa2117877a45881dedde13b51c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00545-texture
+    second: {fileID: 2800000, guid: 83cdddcd5e155784e9d3c6173e5f4906, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: School-00546-texture
+    second: {fileID: 2800000, guid: 505b5af01a189e749975bb18ef1428ab, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
