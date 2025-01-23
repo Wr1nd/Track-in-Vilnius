@@ -1,2 +1,2 @@
-# Racing-in-Vilnius
-Racing game in Vilnius
+# Track-in-Vilnius
+Track game in Vilnius
