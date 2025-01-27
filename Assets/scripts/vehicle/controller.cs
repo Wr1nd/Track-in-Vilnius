@@ -88,9 +88,6 @@ public class controller : MonoBehaviour{
     }
 
     void FixedUpdate(){
-        if(brakeLights != null){
-        activateLights();    
-        }
         animatorTurnAngle = Mathf.Lerp(animatorTurnAngle , -horizontal , 20 * Time.deltaTime);
 
         //steeringWheel.transform.Rotate(transform.up * animatorTurnAngle );
@@ -104,23 +101,6 @@ public class controller : MonoBehaviour{
         audio.totalPower = totalPower;
         audio.engineRPM = engineRPM;
         audio.engineLerp = engineLerp;
-    }
-
-    private void activateLights() {
-        if (IM.vertical < 0 || KPH <= 1) turnLightsOn();
-        else turnLightsOff();
-    }
-   
-    private void turnLightsOn(){
-        if (lightsFlag) return;
-        brakeLights.SetColor("_EmissionColor", new Color(255f,35f,35f) * 0.115f);
-        lightsFlag = true;
-    }    
-   
-    private void turnLightsOff(){
-        if (!lightsFlag) return;
-        brakeLights.SetColor("_EmissionColor", Color.black);
-        lightsFlag = false;
     }
 
     private void calculateEnginePower(){
@@ -185,6 +165,7 @@ public class controller : MonoBehaviour{
         }
     
     }
+
 
     private void shifter(){
         if(!isGrounded())return;
@@ -339,36 +320,6 @@ public class controller : MonoBehaviour{
             engineLerp = engineRPM <= engineLerpValue + 100 ? false : true;
         }
     }   
-
-    private string s ;
- 
-    void OnGUI(){
-        s = "";
-        foreach (float item in wheelSlip){
-            s +=  item.ToString("0.0") + " ";
-        }
-        float pos = 50;
-
-        
-        
-        GUI.Label(new Rect(20, pos, 200, 20),"currentGear: " + gearNum.ToString("0"));
-        pos+=25f;
-        GUI.HorizontalSlider(new Rect(20, pos, 200, 20), engineRPM,0,maxRPM);
-        pos+=25f;
-        GUI.Label(new Rect(20, pos, 200, 20),"wheel slip: " + s);
-        pos+=25f;
-        GUI.Label(new Rect(20, pos, 200, 20),"Torque: " + totalPower.ToString("0"));
-        pos+=25f;
-        GUI.Label(new Rect(20, pos, 200, 20),"KPH: " + KPH.ToString("0"));
-        pos+=25f;
-        GUI.HorizontalSlider(new Rect(20, pos, 200, 20), engineLoad, 0.0F, 1.0F);
-        pos+=25f;
-        GUI.Label(new Rect(20, pos, 200, 20),"brakes: " + brakPower.ToString("0"));
-        pos+=25f;
-
-        
-
-        
-    }
+    
 
 }

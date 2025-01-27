@@ -13,7 +13,9 @@ public class engineAudio : MonoBehaviour{
     [Range(0,2)]public float turboVolume;  
     [Header("Down-shidt Sound")]
     public AudioClip downShift;
-    [Range(0,1)]public float downShiftVolume;  
+    [Range(0,1)]public float downShiftVolume; 
+    
+    public Camera camera;
 
     [Header("Pitch")]
     [Range(0.5f,1)]public float Pitch = 1f;                              
@@ -29,7 +31,7 @@ public class engineAudio : MonoBehaviour{
     private AudioSource m_HighDecel;
     private AudioSource m_Turbo;
     private AudioSource m_downShift;
-    private bool m_StartedSound; 
+    private bool m_StartedSound;
 
     [HideInInspector]public float totalPower;
     [HideInInspector]public float engineRPM;
@@ -71,7 +73,7 @@ public class engineAudio : MonoBehaviour{
 
     private void Update(){
 
-        float camDist = (Camera.main.transform.position - transform.position).sqrMagnitude;
+        float camDist = (camera.transform.position - transform.position).sqrMagnitude;
                     
         accFade = Mathf.Lerp(accFade,Mathf.Abs( acceleration ), 20 * Time.deltaTime );
         if (m_StartedSound && camDist > maxRolloffDistance*maxRolloffDistance)
